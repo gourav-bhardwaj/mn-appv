@@ -49,12 +49,6 @@
       <scope>compile</scope>
     </dependency>
 
-<!--    <dependency>-->
-<!--      <groupId>io.micronaut.validation</groupId>-->
-<!--      <artifactId>micronaut-validation-processor</artifactId>-->
-<!--      <scope>provided</scope>-->
-<!--    </dependency>-->
-
     <dependency>
       <groupId>io.micronaut</groupId>
       <artifactId>micronaut-http-server-netty</artifactId>
